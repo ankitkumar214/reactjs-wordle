@@ -1,6 +1,6 @@
 # ReactJS Wordle Clone
 
-## Link - https://abhicodes737.github.io/reactjs-wordle/
+## Link - https://ankitkumar214.github.io/reactjs-wordle/
 
 **Technologies Used:**
 
