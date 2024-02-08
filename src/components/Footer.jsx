@@ -73,7 +73,7 @@ export default function Footer() {
                     Hey, welcome to <b>Wordle - Unlimited</b>, the best word
                     game ever. Play as many games you want and try to reach the
                     highest amount of points possible. This website is made by
-                    Abhijit Debnath as a passion project with the help of React,
+                    Ankit Kumar as a passion project with the help of React,
                     Tailwind CSS and the Free Dictionary API.
                     <br />
                     <br />
@@ -226,7 +226,7 @@ export default function Footer() {
                     className="my-4 text-black text-lg leading-relaxed whitespace-pre-wrap"
                     id="mail"
                     method="POST"
-                    action="mailto: adboxer99@gmail.com"
+                    action="mailto: ankitnetarhat@gmail.com"
                     encType="text/plain"
                   >
                     <div>
